@@ -31,11 +31,11 @@ export function QuizFlow() {
     return (
       <section className="quiz-result">
         <div className="quiz-copy">
-          <div className="panel-kicker">Profile unlocked</div>
-          <h1>Your skill profile just lit up.</h1>
+          <div className="panel-kicker">Result</div>
+          <h1>Your Micro / Meso / Macro result</h1>
           <p>
-            The marker drops into Micro/Meso/Macro space. Around it, games with a similar
-            kind of pressure start to cluster.
+            These scores show how strongly your answers point to execution, reads, and
+            planning. The map uses the same scores to suggest similar games.
           </p>
           <Button type="button" variant="secondary" onClick={reset}>
             <RotateCcw className="size-4" />
