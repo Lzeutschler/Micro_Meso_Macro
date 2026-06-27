@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "import:steam-top": "node scripts/import-steam-top.mjs",
+    "rate:games": "node scripts/rate-games-openrouter.mjs",
+    "find:game-images": "node scripts/find-game-images.mjs"
   },
   "dependencies": {
     "class-variance-authority": "latest",

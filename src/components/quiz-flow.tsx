@@ -1,5 +1,4 @@
 "use client";
-/* eslint-disable @next/next/no-img-element */
 
 import { ArrowLeft, ArrowRight, RotateCcw, Sparkles } from "lucide-react";
 import { useMemo, useState } from "react";
@@ -8,7 +7,7 @@ import { Button } from "@/components/ui/button";
 import { GameCard } from "@/components/game-card";
 import { SkillMap } from "@/components/skill-map";
 import { answerLabels, quizQuestions, scoreFromAnswers } from "@/lib/quiz";
-import { games, recommendGames } from "@/lib/games";
+import { recommendGames } from "@/lib/games";
 
 export function QuizFlow() {
   const [step, setStep] = useState(0);
@@ -114,17 +113,6 @@ export function QuizFlow() {
             <i style={{ inlineSize: `${scores[dimension]}%` }} />
           </div>
         ))}
-        <div className="preview-games">
-          {games.slice(step, step + 3).map((game) => (
-            <img
-              key={game.id}
-              src={`/game-fallback-${game.micro > game.macro ? "micro" : "macro"}.svg`}
-              alt=""
-              width="616"
-              height="353"
-            />
-          ))}
-        </div>
       </aside>
     </section>
   );

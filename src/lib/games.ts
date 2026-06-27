@@ -1,3 +1,7 @@
+import importedGameSeeds from "./imported-games.json";
+import gameImageOverrides from "./game-image-overrides.json";
+import llmGameAssessments from "./llm-game-assessments.json";
+
 export type Dimension = "micro" | "meso" | "macro";
 
 export type Game = {
@@ -9,7 +13,19 @@ export type Game = {
   storeUrl?: string;
   officialUrl?: string;
   imageUrl?: string;
-  imageSource?: "steam" | "official" | "local" | "none";
+  imageSource?: "steam" | "official" | "metadata" | "wikimedia" | "local" | "none";
+  description?: string;
+  source?: {
+    name: string;
+    url: string;
+    importedAt: string;
+    rank?: number;
+    steamAppId?: number;
+    currentPlayers?: number;
+    peakPlayers?: number;
+    playerHours?: number;
+    reviewStatus?: "needs-score-review" | "reviewed";
+  };
   cheat: string;
   category: "pure" | "micro-macro" | "micro-meso" | "meso-macro" | "tri-core";
   micro: number;
@@ -19,6 +35,28 @@ export type Game = {
 };
 
 export type Scores = Record<Dimension, number>;
+
+type GameAssessment = {
+  id: string;
+  micro: number;
+  meso: number;
+  macro: number;
+  category: Game["category"];
+  cheat: string;
+  why: string;
+  confidence?: number;
+  model?: string;
+  assessedAt?: string;
+  reviewStatus?: "llm-assessed" | "human-reviewed";
+};
+
+type GameImageOverride = {
+  id: string;
+  imageUrl: string;
+  imageSource: "official" | "metadata" | "wikimedia" | "local";
+  sourceUrl?: string;
+  foundAt?: string;
+};
 
 type GameSeed = Omit<Game, "storeUrl" | "officialUrl" | "imageUrl" | "imageSource" | "cheat" | "category"> &
   Partial<Pick<Game, "storeUrl" | "officialUrl" | "imageUrl" | "imageSource" | "cheat" | "category">>;
@@ -57,7 +95,7 @@ export const dimensions: Array<{
   },
 ];
 
-const gameSeeds: GameSeed[] = [
+const curatedGameSeeds: GameSeed[] = [
   {
     id: "league-of-legends",
     title: "League of Legends",
@@ -742,6 +780,31 @@ const gameSeeds: GameSeed[] = [
   },
 ];
 
+function isImportedGameSeed(seed: unknown): seed is GameSeed {
+  if (!seed || typeof seed !== "object") return false;
+  const maybeSeed = seed as Partial<GameSeed>;
+  const reviewStatus = maybeSeed.source?.reviewStatus;
+  return (
+    typeof maybeSeed.id === "string" &&
+    typeof maybeSeed.title === "string" &&
+    typeof maybeSeed.type === "string" &&
+    Array.isArray(maybeSeed.platforms) &&
+    Array.isArray(maybeSeed.tags) &&
+    typeof maybeSeed.micro === "number" &&
+    typeof maybeSeed.meso === "number" &&
+    typeof maybeSeed.macro === "number" &&
+    typeof maybeSeed.why === "string" &&
+    (reviewStatus === undefined || reviewStatus === "needs-score-review" || reviewStatus === "reviewed")
+  );
+}
+
+const curatedIds = new Set(curatedGameSeeds.map((game) => game.id));
+const importedSeeds = (importedGameSeeds as unknown[]).filter(isImportedGameSeed);
+const gameSeeds: GameSeed[] = [
+  ...curatedGameSeeds,
+  ...importedSeeds.filter((game) => !curatedIds.has(game.id)),
+];
+
 const steamAppIds: Record<string, number> = {
   "counter-strike-2": 730,
   "rocket-league": 252950,
@@ -792,6 +855,7 @@ const officialUrls: Record<string, string> = {
   "super-smash-bros-ultimate": "https://www.smashbros.com/",
   "mario-kart-8-deluxe": "https://mariokart8.nintendo.com/",
   fortnite: "https://www.fortnite.com/",
+  minecraft: "https://www.minecraft.net/en-us",
   osu: "https://osu.ppy.sh/",
   "escape-from-tarkov": "https://www.escapefromtarkov.com/",
   "mario-maker-2": "https://supermariomaker.nintendo.com/",
@@ -800,6 +864,45 @@ const officialUrls: Record<string, string> = {
   "pokemon-vgc": "https://www.pokemon.com/us/play-pokemon/",
   "world-of-warcraft": "https://worldofwarcraft.blizzard.com/",
 };
+
+function isGameAssessment(assessment: unknown): assessment is GameAssessment {
+  if (!assessment || typeof assessment !== "object") return false;
+  const entry = assessment as Partial<GameAssessment>;
+  return (
+    typeof entry.id === "string" &&
+    typeof entry.micro === "number" &&
+    typeof entry.meso === "number" &&
+    typeof entry.macro === "number" &&
+    typeof entry.cheat === "string" &&
+    typeof entry.why === "string" &&
+    (entry.category === "pure" ||
+      entry.category === "micro-macro" ||
+      entry.category === "micro-meso" ||
+      entry.category === "meso-macro" ||
+      entry.category === "tri-core")
+  );
+}
+
+const assessmentsById = new Map(
+  (llmGameAssessments as unknown[]).filter(isGameAssessment).map((assessment) => [assessment.id, assessment]),
+);
+
+function isGameImageOverride(override: unknown): override is GameImageOverride {
+  if (!override || typeof override !== "object") return false;
+  const entry = override as Partial<GameImageOverride>;
+  return (
+    typeof entry.id === "string" &&
+    typeof entry.imageUrl === "string" &&
+    (entry.imageSource === "official" ||
+      entry.imageSource === "metadata" ||
+      entry.imageSource === "wikimedia" ||
+      entry.imageSource === "local")
+  );
+}
+
+const imageOverridesById = new Map(
+  (gameImageOverrides as unknown[]).filter(isGameImageOverride).map((override) => [override.id, override]),
+);
 
 function categoryFor(game: Pick<Game, "micro" | "meso" | "macro">): Game["category"] {
   const high = {
@@ -835,17 +938,20 @@ function cheatFor(game: Pick<Game, "micro" | "meso" | "macro">, category: Game["
 
 function enrichGame(seed: GameSeed): Game {
   const appId = steamAppIds[seed.id];
-  const category = seed.category ?? categoryFor(seed);
-  const imageUrl = seed.imageUrl ?? (appId ? `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/header.jpg` : undefined);
+  const assessment = assessmentsById.get(seed.id);
+  const imageOverride = imageOverridesById.get(seed.id);
+  const scoredSeed = assessment ? { ...seed, ...assessment } : seed;
+  const category = scoredSeed.category ?? categoryFor(scoredSeed);
+  const imageUrl = seed.imageUrl ?? imageOverride?.imageUrl ?? (appId ? `https://cdn.akamai.steamstatic.com/steam/apps/${appId}/header.jpg` : undefined);
 
   return {
-    ...seed,
+    ...scoredSeed,
     storeUrl: seed.storeUrl ?? (appId ? `https://store.steampowered.com/app/${appId}` : undefined),
     officialUrl: seed.officialUrl ?? officialUrls[seed.id],
     imageUrl,
-    imageSource: seed.imageSource ?? (imageUrl ? "steam" : "none"),
+    imageSource: seed.imageSource ?? imageOverride?.imageSource ?? (imageUrl ? "steam" : "none"),
     category,
-    cheat: seed.cheat ?? cheatFor(seed, category),
+    cheat: scoredSeed.cheat ?? cheatFor(scoredSeed, category),
   };
 }
 

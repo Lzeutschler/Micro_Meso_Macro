@@ -1,11 +1,17 @@
 import Link from "next/link";
-import { ArrowRight, Cpu, Crosshair, Database, Eye, Play, Trophy, Video } from "lucide-react";
+import Image from "next/image";
+import { ArrowRight, Cpu, Crosshair, Database, Eye, Play, Trophy } from "lucide-react";
 
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { GameCard } from "@/components/game-card";
 import { SiteShell } from "@/components/site-shell";
 import { games } from "@/lib/games";
+import conceptMap from "../../public/concept-map.jpg";
+
+export const metadata = {
+  title: "Find your next game | Skillcheck",
+};
 
 const featured = ["counter-strike-2", "rocket-league", "hearthstone", "factorio"]
   .map((id) => games.find((game) => game.id === id))
@@ -24,12 +30,12 @@ export default function HomePage() {
     <SiteShell>
       <section className="hero-grid">
         <div className="hero-copy">
-          <Badge>Skill profiler v2</Badge>
-          <h1>Gaming skill is stranger than genre.</h1>
+          <Badge>Skillcheck</Badge>
+          <h1>Find your next game!</h1>
           <p>
-            Micro / Meso / Macro looks at what a game actually asks from you. Fast hands.
-            Sharp reads. A feel for systems. The idea comes from the original video; here,
-            it turns into something you can play with.
+            Skillcheck uses Micro / Meso / Macro to look at what a game actually asks from
+            you. Fast hands. Sharp reads. A feel for systems. The idea comes from the
+            original video; here, it turns into something you can play with.
           </p>
           <div className="cta-row">
             <Button asChild size="lg">
@@ -48,10 +54,6 @@ export default function HomePage() {
         </div>
 
         <aside className="video-cabinet" aria-label="YouTube video about the model">
-          <div className="cabinet-top">
-            <Video className="size-5" />
-            <span>Original signal</span>
-          </div>
           <iframe
             src="https://www.youtube-nocookie.com/embed/NgHvdCcmQ4o"
             title="YouTube video about the Micro Meso Macro model"
@@ -75,6 +77,15 @@ export default function HomePage() {
               fingers. Maybe in hidden information. Maybe in the plan forming five turns
               before anyone notices.
             </p>
+          </div>
+
+          <div className="cheat-model-card">
+            <Image
+              className="cheat-map-image"
+              src={conceptMap}
+              alt="Micro, Meso, and Macro Venn diagram with game icons placed by skill profile"
+              sizes="(max-width: 700px) 100vw, 1200px"
+            />
           </div>
 
           <div className="cheat-lanes" aria-label="Cheat lanes for Micro Meso Macro">

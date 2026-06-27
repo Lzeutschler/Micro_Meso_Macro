@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 616 353" role="img" aria-labelledby="title desc">
+  <title id="title">Fortnite inspired key art</title>
+  <desc id="desc">A stylized battle royale island with a storm ring, build pieces, and bright supply beams.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#5ad7ff"/>
+      <stop offset="0.52" stop-color="#7550ff"/>
+      <stop offset="1" stop-color="#ff6f91"/>
+    </linearGradient>
+    <linearGradient id="land" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#44c06b"/>
+      <stop offset="1" stop-color="#ffd166"/>
+    </linearGradient>
+  </defs>
+  <rect width="616" height="353" fill="url(#sky)"/>
+  <circle cx="492" cy="76" r="42" fill="#ffe66d" opacity=".95"/>
+  <path d="M0 244c78-52 141-49 207-25 72 26 132 15 192-18 78-43 146-28 217 20v132H0z" fill="url(#land)"/>
+  <path d="M78 226h124l-64-58zM392 207h102l-51-47z" fill="#284b63" opacity=".5"/>
+  <path d="M270 240l58-34 58 34-58 34z" fill="#f7fff7" opacity=".82"/>
+  <path d="M328 206v68M270 240h116" stroke="#284b63" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+  <path d="M101 260l50-31 50 31M415 258l38-25 38 25" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity=".7"/>
+  <circle cx="309" cy="176" r="108" fill="none" stroke="#ffffff" stroke-width="8" opacity=".6"/>
+  <circle cx="309" cy="176" r="126" fill="none" stroke="#37f4ff" stroke-width="3" opacity=".55"/>
+  <path d="M154 111v112M474 126v111" stroke="#ffd166" stroke-width="8" stroke-linecap="round" opacity=".8"/>
+  <path d="M122 111h64M442 126h64" stroke="#fff" stroke-width="6" stroke-linecap="round" opacity=".8"/>
+</svg>

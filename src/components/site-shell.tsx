@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { Gamepad2 } from "lucide-react";
+
+import { SkillcheckMark } from "@/components/skillcheck-mark";
 
 export function SiteShell({ children }: { children: React.ReactNode }) {
   return (
@@ -11,9 +12,9 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
         <nav className="site-nav" aria-label="Main navigation">
           <Link className="brand-lockup" href="/">
             <span className="brand-mark">
-              <Gamepad2 className="size-5" />
+              <SkillcheckMark />
             </span>
-            <span>Micro / Meso / Macro</span>
+            <span className="brand-name">Skillcheck</span>
           </Link>
           <div className="nav-links">
             <Link href="/test">Test</Link>

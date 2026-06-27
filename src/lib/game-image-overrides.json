@@ -1,0 +1,170 @@
+[
+  {
+    "id": "league-of-legends",
+    "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d3b7bd9decb1e1672dcb80be4f8bc1aa05490dc1-110x70.svg?accountingTag=LoL?w=1200&h=630&fm=webp&fit=crop&crop=center",
+    "imageSource": "official",
+    "sourceUrl": "https://www.leagueoflegends.com/",
+    "foundAt": "2026-06-27T14:30:24.977Z"
+  },
+  {
+    "id": "super-smash-bros-ultimate",
+    "imageUrl": "http://www.smashbros.com/assets_v2/img/sns/en.png?180309",
+    "imageSource": "official",
+    "sourceUrl": "https://www.smashbros.com/",
+    "foundAt": "2026-06-27T14:30:26.252Z"
+  },
+  {
+    "id": "hearthstone",
+    "imageUrl": "https://d39zum0jwvcigt.cloudfront.net/_next/static/images/default-4fff3c606c794dc03a915b9071f562d3.jpg",
+    "imageSource": "official",
+    "sourceUrl": "https://hearthstone.blizzard.com/",
+    "foundAt": "2026-06-27T14:30:26.740Z"
+  },
+  {
+    "id": "teamfight-tactics",
+    "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d63adacd93e313c1e61bbeb2eb37d8c4ca85848d-1920x1080.jpg?accountingTag=TFT?w=1200&h=630&fm=webp&fit=crop&crop=center",
+    "imageSource": "official",
+    "sourceUrl": "https://teamfighttactics.leagueoflegends.com/",
+    "foundAt": "2026-06-27T14:30:27.272Z"
+  },
+  {
+    "id": "starcraft-ii",
+    "imageUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/blt9c12f249ac15c7ec/bltbe2068a317e02d9f/6966bac0fb2fd910dbda4a26/og_image.webp",
+    "imageSource": "official",
+    "sourceUrl": "https://starcraft2.blizzard.com/",
+    "foundAt": "2026-06-27T14:30:27.685Z"
+  },
+  {
+    "id": "valorant",
+    "imageUrl": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/cbf4460132cdfeb2a97fad5f9dd25ba0bc058f76-128x128.png?accountingTag=VAL?w=1200&h=630&fm=webp&fit=crop&crop=center",
+    "imageSource": "official",
+    "sourceUrl": "https://playvalorant.com/",
+    "foundAt": "2026-06-27T14:30:28.124Z"
+  },
+  {
+    "id": "mario-kart-8-deluxe",
+    "imageUrl": "https://mariokart8.nintendo.com/assets/img/share-fb.jpg",
+    "imageSource": "official",
+    "sourceUrl": "https://mariokart8.nintendo.com/",
+    "foundAt": "2026-06-27T14:30:28.295Z"
+  },
+  {
+    "id": "mario-maker-2",
+    "imageUrl": "https://supermariomaker.nintendo.com/assets/icons/smm2-share-fb.jpg",
+    "imageSource": "official",
+    "sourceUrl": "https://supermariomaker.nintendo.com/",
+    "foundAt": "2026-06-27T14:30:28.920Z"
+  },
+  {
+    "id": "tetris-99",
+    "imageUrl": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000018547/2aaa58fe27cdc4784f54ee9f4e7dffd43ad1fd1fffabfd86029889696220d33b",
+    "imageSource": "official",
+    "sourceUrl": "https://tetris99.nintendo.com/",
+    "foundAt": "2026-06-27T14:30:30.357Z"
+  },
+  {
+    "id": "pokemon-vgc",
+    "imageUrl": "https://www.pokemon.com/static-assets/app/static3/img/og-default-image.jpeg",
+    "imageSource": "official",
+    "sourceUrl": "https://www.pokemon.com/us/play-pokemon/",
+    "foundAt": "2026-06-27T14:30:30.980Z"
+  },
+  {
+    "id": "world-of-warcraft",
+    "imageUrl": "https://blz-contentstack-images.akamaized.net/v3/assets/blt3452e3b114fab0cd/blt078aa5707fe32653/6757390465d1b1528eadc82d/wow-opengraph.png",
+    "imageSource": "official",
+    "sourceUrl": "https://worldofwarcraft.blizzard.com/",
+    "foundAt": "2026-06-27T14:30:31.313Z"
+  },
+  {
+    "id": "poker",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Poker-Texas-Holdem-multiplayer.jpg/1280px-Poker-Texas-Holdem-multiplayer.jpg",
+    "imageSource": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Poker",
+    "foundAt": "2026-06-27T14:33:06.451Z"
+  },
+  {
+    "id": "rubiks-cube",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Rubiks_cube_solved.jpg",
+    "imageSource": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rubik%27s_Cube",
+    "foundAt": "2026-06-27T14:33:07.225Z"
+  },
+  {
+    "id": "chess",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg",
+    "imageSource": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Chess",
+    "foundAt": "2026-06-27T14:33:07.567Z"
+  },
+  {
+    "id": "go",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2a/FloorGoban.JPG",
+    "imageSource": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Go_(game)",
+    "foundAt": "2026-06-27T14:33:08.047Z"
+  },
+  {
+    "id": "minecraft",
+    "imageUrl": "https://www.minecraft.net/content/dam/minecraftnet/franchise/logos/minecraft-creeper-face.jpg",
+    "imageSource": "official",
+    "sourceUrl": "https://www.minecraft.net/en-us",
+    "foundAt": "2026-06-27T14:33:08.207Z"
+  },
+  {
+    "id": "tic-tac-toe",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tic_tac_toe.svg/1280px-Tic_tac_toe.svg.png",
+    "imageSource": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Tic-tac-toe",
+    "foundAt": "2026-06-27T14:33:09.954Z"
+  },
+  {
+    "id": "speedrunning",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/SuperTux_Frosted_Fields_speedrun.webm/1280px--SuperTux_Frosted_Fields_speedrun.webm.jpg",
+    "imageSource": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Speedrunning",
+    "foundAt": "2026-06-27T14:35:27.761Z"
+  },
+  {
+    "id": "osu",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Osu%21_logo_2024.png",
+    "imageSource": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Osu!",
+    "foundAt": "2026-06-27T14:35:28.460Z"
+  },
+  {
+    "id": "battleship",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hra_n%C3%A1mo%C5%99n%C3%AD_bitva_%281%29.jpg/1280px-Hra_n%C3%A1mo%C5%99n%C3%AD_bitva_%281%29.jpg",
+    "imageSource": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Battleship_(game)",
+    "foundAt": "2026-06-27T14:35:29.064Z"
+  },
+  {
+    "id": "connect-4",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Connect-four.jpg",
+    "imageSource": "wikimedia",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Connect_Four",
+    "foundAt": "2026-06-27T14:36:11.992Z"
+  },
+  {
+    "id": "escape-from-tarkov",
+    "imageUrl": "https://www.escapefromtarkov.com/build-eft-site/_nuxt/bg-parallax.o0RmobwQ.png",
+    "imageSource": "official",
+    "sourceUrl": "https://www.escapefromtarkov.com/",
+    "foundAt": "2026-06-27T14:38:00.000Z"
+  },
+  {
+    "id": "fortnite",
+    "imageUrl": "/game-art/fortnite.svg",
+    "imageSource": "local",
+    "sourceUrl": "/game-art/fortnite.svg",
+    "foundAt": "2026-06-27T14:38:00.000Z"
+  },
+  {
+    "id": "8-ball-pool",
+    "imageUrl": "/game-art/8-ball-pool.svg",
+    "imageSource": "local",
+    "sourceUrl": "/game-art/8-ball-pool.svg",
+    "foundAt": "2026-06-27T14:38:00.000Z"
+  }
+]

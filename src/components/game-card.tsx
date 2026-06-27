@@ -71,11 +71,7 @@ export function GameCard({
             </div>
           ))}
         </div>
-        {!compact ? (
-          <p>
-            {game.why} <strong>{game.cheat}</strong>
-          </p>
-        ) : null}
+        {!compact ? <p>{game.why}</p> : null}
         <div className="tag-row">
           {game.tags.slice(0, compact ? 3 : 5).map((tag) => (
             <span key={tag}>{tag}</span>

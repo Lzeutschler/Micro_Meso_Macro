@@ -1,0 +1,3724 @@
+[
+  {
+    "id": "counter-strike-2",
+    "title": "Counter-Strike 2",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Linux"
+    ],
+    "tags": [
+      "Action",
+      "Free To Play",
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Adjustable Text Size"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/730",
+    "officialUrl": "http://counter-strike.net/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1780435263",
+    "imageSource": "steam",
+    "description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 1,
+      "steamAppId": 730,
+      "currentPlayers": 1178661,
+      "peakPlayers": 1573727,
+      "playerHours": 676937070,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "dota-2",
+    "title": "Dota 2",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Action",
+      "Strategy",
+      "Free To Play",
+      "Multi-player",
+      "Co-op",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "SteamVR Collectibles"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/570",
+    "officialUrl": "http://www.dota2.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1769535998",
+    "imageSource": "steam",
+    "description": "Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. And no matter if it's their 10th hour of play or 1,000th, there's always something new to discover. With regular updates that ensure a constant evolution of gameplay, features, and heroes, Dota 2 has taken on a life of its own.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 2,
+      "steamAppId": 570,
+      "currentPlayers": 714827,
+      "peakPlayers": 794168,
+      "playerHours": 328637610,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "pubg-battlegrounds",
+    "title": "PUBG: BATTLEGROUNDS",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "Free To Play",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Custom Volume Controls"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/578080",
+    "officialUrl": "https://www.pubg.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1781659328",
+    "imageSource": "steam",
+    "description": "PUBG: BATTLEGROUNDS, the high-stakes winner-take-all shooter that started the Battle Royale craze, is free-to-play! Drop into diverse maps, loot unique weapons and supplies, and survive in an ever-shrinking zone where every turn could be your last.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 36,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 3,
+      "steamAppId": 578080,
+      "currentPlayers": 553758,
+      "peakPlayers": 820499,
+      "playerHours": 232636982,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "tbh-task-bar-hero",
+    "title": "TBH: Task Bar Hero",
+    "type": "Casual",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Free To Play",
+      "Single-player",
+      "Steam Achievements",
+      "Custom Volume Controls",
+      "Mouse Only Option"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/3678970",
+    "officialUrl": "https://linktr.ee/nugemstudio",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg?t=1780512075",
+    "imageSource": "steam",
+    "description": "The ultimate tiny idle RPG! Adorable pixel heroes are waiting to join your adventure — from your taskbar. Fight off the boredom of work and daily life with diverse classes, skills, items, and builds!",
+    "micro": 25,
+    "meso": 8,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 4,
+      "steamAppId": 3678970,
+      "currentPlayers": 501913,
+      "peakPlayers": 545349,
+      "playerHours": 239849103,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "bongo-cat",
+    "title": "Bongo Cat",
+    "type": "Casual",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "tags": [
+      "Casual",
+      "Indie",
+      "Massively Multiplayer",
+      "Simulation",
+      "Free To Play",
+      "Single-player",
+      "Multi-player",
+      "Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/3419430",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3419430/2e6c93c020fe13d09d8120bb9164ed7cb58f00c5/header.jpg?t=1782563587",
+    "imageSource": "steam",
+    "description": "Bongo cat needs your help. Bongo cat needz more hatz!!! Every time you press a key, Bongo cat will punch your taskbar. Type, click, play, work to collect more points. Which hats will you find?",
+    "micro": 25,
+    "meso": 54,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 5,
+      "steamAppId": 3419430,
+      "currentPlayers": 163864,
+      "peakPlayers": 180178,
+      "playerHours": 108456192,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "apex-legends",
+    "title": "Apex Legends™",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Free To Play",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1172470",
+    "officialUrl": "https://www.ea.com/games/apex-legends",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0bd74245b869287a2dc7f682e6013f7ed08d98e3/header.jpg?t=1778502442",
+    "imageSource": "steam",
+    "description": "Apex Legends is the award-winning, free-to-play Hero Shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay in the next evolution of Hero Shooter and Battle Royale.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 6,
+      "steamAppId": 1172470,
+      "currentPlayers": 157088,
+      "peakPlayers": 262535,
+      "playerHours": 79473605,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "path-of-exile-2",
+    "title": "Path of Exile 2",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Early Access",
+      "Single-player",
+      "Multi-player",
+      "MMO"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/2694490",
+    "officialUrl": "http://www.pathofexile2.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694490/24eeddcbda17903f03d819588757e40845f8115f/header.jpg?t=1781573777",
+    "imageSource": "steam",
+    "description": "Path of Exile 2 is a next generation Action RPG from Grinding Gear Games, featuring co-op for up to six players. Set years after the original Path of Exile, you will return to the dark world of Wraeclast and seek to end the corruption that is spreading.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 7,
+      "steamAppId": 2694490,
+      "currentPlayers": 134176,
+      "peakPlayers": 420409,
+      "playerHours": 132697899,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "delta-force",
+    "title": "Delta Force",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "Free To Play",
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "PvP"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/2507950",
+    "officialUrl": "https://www.playdeltaforce.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2507950/e0fd3a3cd0cdf81e961c8465c8218491fd001069/header_alt_assets_11.jpg?t=1782386899",
+    "imageSource": "steam",
+    "description": "Play for free in operator-based extraction and full-scale combined arms warfare. Become elite Operators, customize an ever-expanding arsenal of weapons, and deploy into thrill-packed missions across multiple modes.",
+    "micro": 69,
+    "meso": 80,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 8,
+      "steamAppId": 2507950,
+      "currentPlayers": 128358,
+      "peakPlayers": 144121,
+      "playerHours": 49303792,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "wallpaper-engine",
+    "title": "Wallpaper Engine",
+    "type": "Casual",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Casual",
+      "Indie",
+      "Animation & Modeling",
+      "Design & Illustration",
+      "Photo Editing",
+      "Utilities",
+      "Steam Achievements",
+      "Steam Trading Cards"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/431960",
+    "officialUrl": "https://www.wallpaperengine.io",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1779452230",
+    "imageSource": "steam",
+    "description": "Use stunning live wallpapers on your desktop. Animate your own images to create new wallpapers or import videos/websites and share them on the Steam Workshop!",
+    "micro": 25,
+    "meso": 20,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 9,
+      "steamAppId": 431960,
+      "currentPlayers": 119607,
+      "peakPlayers": 135883,
+      "playerHours": 61038431,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "rust",
+    "title": "Rust",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Multi-player",
+      "MMO",
+      "PvP"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/252490",
+    "officialUrl": "http://rust.facepunch.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
+    "imageSource": "steam",
+    "description": "The only aim in Rust is to survive. Everything wants you to die - the island’s wildlife, other inhabitants, the environment, and other survivors. Do whatever it takes to last another night.",
+    "micro": 87,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 10,
+      "steamAppId": 252490,
+      "currentPlayers": 115443,
+      "peakPlayers": 219164,
+      "playerHours": 76708377,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "dead-by-daylight",
+    "title": "Dead by Daylight",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/381210",
+    "officialUrl": "http://www.deadbydaylight.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/66727e8249aae119400352d4b1d84928f924939c/header_alt_assets_8.jpg?t=1782395976",
+    "imageSource": "steam",
+    "description": "10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 12,
+      "steamAppId": 381210,
+      "currentPlayers": 103545,
+      "peakPlayers": 168845,
+      "playerHours": 48944947,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "slay-the-spire-2",
+    "title": "Slay the Spire 2",
+    "type": "Indie",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Indie",
+      "Strategy",
+      "Early Access",
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Full controller support"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/2868840",
+    "officialUrl": "https://megacrit.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1776735385",
+    "imageSource": "steam",
+    "description": "The iconic roguelike deckbuilder returns. Craft a unique deck, encounter bizarre creatures, and discover relics of immense power in Slay the Spire 2!",
+    "micro": 35,
+    "meso": 50,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 13,
+      "steamAppId": 2868840,
+      "currentPlayers": 100344,
+      "peakPlayers": 163900,
+      "playerHours": 62284066,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "ea-sports-fc-26",
+    "title": "EA SPORTS FC™ 26",
+    "type": "Simulation",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Simulation",
+      "Sports",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/3405690",
+    "officialUrl": "https://www.ea.com/en/games/ea-sports-fc/fc-26",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3405690/64d362e71693f1ec7023f52ab94026f9a0d4fbed/header.jpg?t=1781720918",
+    "imageSource": "steam",
+    "description": "The Club is Yours in EA SPORTS FC™ 26. Play your way with an overhauled gameplay experience powered by community feedback, Manager Live Challenges that bring fresh storylines to the new season, and Archetypes inspired by greats of the game.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 14,
+      "steamAppId": 3405690,
+      "currentPlayers": 98503,
+      "peakPlayers": 134567,
+      "playerHours": 49581370,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "the-binding-of-isaac-rebirth",
+    "title": "The Binding of Isaac: Rebirth",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Action",
+      "Single-player",
+      "Multi-player",
+      "Shared/Split Screen",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/250900",
+    "officialUrl": "http://www.bindingofisaac.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
+    "imageSource": "steam",
+    "description": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac’s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
+    "micro": 69,
+    "meso": 16,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 15,
+      "steamAppId": 250900,
+      "currentPlayers": 93926,
+      "peakPlayers": 102874,
+      "playerHours": 15179896,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "dont-starve-together",
+    "title": "Don't Starve Together",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy",
+      "Single-player",
+      "Multi-player"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/322330",
+    "officialUrl": "http://www.dontstarvegame.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/da5d1bc20a2b35fe987c68047ba96a7f3d25c982/header_alt_assets_50.jpg?t=1782413299",
+    "imageSource": "steam",
+    "description": "Fight, Farm, Build and Explore Together in the standalone multiplayer expansion to the uncompromising wilderness survival game, Don't Starve.",
+    "micro": 69,
+    "meso": 80,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with reads, opponents, or uncertainty currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 16,
+      "steamAppId": 322330,
+      "currentPlayers": 86722,
+      "peakPlayers": 121538,
+      "playerHours": 27559966,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "grand-theft-auto-v-legacy",
+    "title": "Grand Theft Auto V Legacy",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/271590",
+    "officialUrl": "https://www.rockstargames.com/V/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1765387725",
+    "imageSource": "steam",
+    "description": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 36,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 17,
+      "steamAppId": 271590,
+      "currentPlayers": 86434,
+      "peakPlayers": 105223,
+      "playerHours": 49352812,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "stardew-valley",
+    "title": "Stardew Valley",
+    "type": "Indie",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/413150",
+    "officialUrl": "http://www.stardewvalley.net",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1754692865",
+    "imageSource": "steam",
+    "description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
+    "micro": 35,
+    "meso": 50,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 18,
+      "steamAppId": 413150,
+      "currentPlayers": 83902,
+      "peakPlayers": 118193,
+      "playerHours": 43192974,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "grand-theft-auto-v-enhanced",
+    "title": "Grand Theft Auto V Enhanced",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Racing",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/3240220",
+    "officialUrl": "https://www.rockstargames.com/V/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+    "imageSource": "steam",
+    "description": "Experience entertainment blockbusters Grand Theft Auto V and Grand Theft Auto Online — now upgraded for a new generation with stunning visuals, faster loading, 3D audio, and more, plus exclusive content for GTA Online players.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 36,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 19,
+      "steamAppId": 3240220,
+      "currentPlayers": 82031,
+      "peakPlayers": 92304,
+      "playerHours": 35895436,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "war-thunder",
+    "title": "War Thunder",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Action",
+      "Massively Multiplayer",
+      "Simulation",
+      "Free To Play",
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "PvP"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/236390",
+    "officialUrl": "http://warthunder.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/65885881b96806d55fea45e130233fdafd78b129/header.jpg?t=1782402633",
+    "imageSource": "steam",
+    "description": "War Thunder is the most comprehensive free-to-play, cross-platform, MMO military game dedicated to aviation, armoured vehicles, and naval craft, from the early 20th century to the most advanced modern combat units. Join now and take part in major battles on land, in the air, and at sea.",
+    "micro": 87,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 20,
+      "steamAppId": 236390,
+      "currentPlayers": 78377,
+      "peakPlayers": 85366,
+      "playerHours": 35681152,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "warframe",
+    "title": "Warframe",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "RPG",
+      "Free To Play",
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/230410",
+    "officialUrl": "http://www.warframe.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/a000b4bf98dde5d51cd44206f1ac21d04841017e/header.jpg?t=1782241202",
+    "imageSource": "steam",
+    "description": "Awaken as an unstoppable warrior and battle alongside your friends in this story-driven free-to-play online action game",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 21,
+      "steamAppId": 230410,
+      "currentPlayers": 72049,
+      "peakPlayers": 124688,
+      "playerHours": 42986104,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "cyberpunk-2077",
+    "title": "Cyberpunk 2077",
+    "type": "RPG",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "tags": [
+      "RPG",
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1091500",
+    "officialUrl": "https://www.cyberpunk.net",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
+    "imageSource": "steam",
+    "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+    "micro": 69,
+    "meso": 16,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 22,
+      "steamAppId": 1091500,
+      "currentPlayers": 70312,
+      "peakPlayers": 77570,
+      "playerHours": 22410260,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "destiny-2",
+    "title": "Destiny 2",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Free To Play",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1085660",
+    "officialUrl": "https://www.bungie.net/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781815889",
+    "imageSource": "steam",
+    "description": "Explore the mysteries of Sol and experience exhilirating first-person shooter combat in Destiny 2. Unlock powerful abilities and collect unique gear across story missions, co-op, and PvP modes.",
+    "micro": 87,
+    "meso": 62,
+    "macro": 36,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 23,
+      "steamAppId": 1085660,
+      "currentPlayers": 59522,
+      "peakPlayers": 167867,
+      "playerHours": 44322746,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "forza-horizon-6",
+    "title": "Forza Horizon 6",
+    "type": "Racing",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Racing",
+      "Simulation",
+      "Sports",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/2483190",
+    "officialUrl": "https://forza.net/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/744a52b2f79bb03825dea2c0fcfa29e330bb2f1e/header_alt_assets_1.jpg?t=1782238812",
+    "imageSource": "steam",
+    "description": "Discover the breathtaking landscapes of Japan in over 550 real-world cars and become a racing Legend in Forza Horizon's biggest open world driving adventure yet.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 24,
+      "steamAppId": 2483190,
+      "currentPlayers": 56879,
+      "peakPlayers": 230635,
+      "playerHours": 69719710,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "hearts-of-iron-iv",
+    "title": "Hearts of Iron IV",
+    "type": "Simulation",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Simulation",
+      "Strategy",
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/394360",
+    "officialUrl": "http://www.heartsofiron4.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg?t=1782396105",
+    "imageSource": "steam",
+    "description": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.",
+    "micro": 35,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 25,
+      "steamAppId": 394360,
+      "currentPlayers": 56203,
+      "peakPlayers": 71671,
+      "playerHours": 28001782,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "overwatch",
+    "title": "Overwatch®",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Free To Play",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/2357570",
+    "officialUrl": "https://overwatch.blizzard.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2357570/217c51ee328bb2f97c66776bb92b1ddb3d8333fe/header_alt_assets_21.jpg?t=1782523417",
+    "imageSource": "steam",
+    "description": "Overwatch®, A FUTURE WORTH FIGHTING FOR! Overwatch® is an always-on and ever-evolving free-to-play, team-based action game set in an optimistic future, where every match is the ultimate 5v5 or 6v6 battlefield brawl.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 54,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 26,
+      "steamAppId": 2357570,
+      "currentPlayers": 55615,
+      "peakPlayers": 102096,
+      "playerHours": 44308985,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "limbus-company",
+    "title": "Limbus Company",
+    "type": "Free To Play",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Free To Play",
+      "Single-player",
+      "In-App Purchases",
+      "Family Sharing"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1973530",
+    "officialUrl": "https://limbuscompany.kr/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973530/header.jpg?t=1782421211",
+    "imageSource": "steam",
+    "description": "As the Executive Manager of Limbus Company, lead your group of twelve Sinners, venture into the buried facilities of Lobotomy Corporation, and lay claim on the Golden Boughs.",
+    "micro": 53,
+    "meso": 16,
+    "macro": 36,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 27,
+      "steamAppId": 1973530,
+      "currentPlayers": 52939,
+      "peakPlayers": 130546,
+      "playerHours": 31190987,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "tags": [
+      "Action",
+      "Indie",
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Includes level editor",
+      "Remote Play on Phone"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/322170",
+    "officialUrl": "https://geometrydash.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322170/header.jpg?t=1775300400",
+    "imageSource": "steam",
+    "description": "Jump and fly your way through danger in this rhythm-based action platformer!",
+    "micro": 69,
+    "meso": 16,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 28,
+      "steamAppId": 322170,
+      "currentPlayers": 52259,
+      "peakPlayers": 84423,
+      "playerHours": 37491268,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "naraka-bladepoint",
+    "title": "NARAKA: BLADEPOINT",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "Free To Play",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1203220",
+    "officialUrl": "https://www.narakathegame.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/54ba28138d3123da5e078bee8714340d565cb436/header.jpg?t=1778037276",
+    "imageSource": "steam",
+    "description": "Dive into the legends of the Far East in NARAKA: BLADEPOINT; team up with friends in fast-paced melee fights for a Battle Royale experience unlike any other. Find your playstyle with a varied cast of heroes with unique skills. More than 40 million players have already joined the fray, play free now!",
+    "micro": 87,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 29,
+      "steamAppId": 1203220,
+      "currentPlayers": 51923,
+      "peakPlayers": 78734,
+      "playerHours": 19840568,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "marvel-rivals",
+    "title": "Marvel Rivals",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Free To Play",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/2767030",
+    "officialUrl": "https://www.marvelrivals.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2767030/4a41f0888ee8d13bd2aa84a4fa2bf5a4e3e7dc39/header.jpg?t=1781255145",
+    "imageSource": "steam",
+    "description": "Marvel Rivals is a Super Hero Team-Based PVP Shooter! Assemble an all-star Marvel squad, devise countless strategies by combining powers to form unique Team-Up skills and fight in destructible, ever-changing battlefields across the continually evolving Marvel universe!",
+    "micro": 69,
+    "meso": 62,
+    "macro": 54,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 30,
+      "steamAppId": 2767030,
+      "currentPlayers": 47198,
+      "peakPlayers": 129219,
+      "playerHours": 50884402,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "tom-clancys-rainbow-six-siege",
+    "title": "Tom Clancy's Rainbow Six Siege",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Free To Play",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/359550",
+    "officialUrl": "http://rainbow6.ubi.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/d8a94437103c0b244ad4a9dbb8cc2d912e3b36ce/header_alt_assets_24.jpg?t=1782483834",
+    "imageSource": "steam",
+    "description": "Tom Clancy's Rainbow Six Siege is an elite, tactical team-based shooter where superior planning and execution triumph.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 32,
+      "steamAppId": 359550,
+      "currentPlayers": 46126,
+      "peakPlayers": 117909,
+      "playerHours": 46281286,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "vrchat",
+    "title": "VRChat",
+    "type": "Adventure",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Adventure",
+      "Casual",
+      "Massively Multiplayer",
+      "Simulation",
+      "Sports",
+      "Free To Play",
+      "Early Access",
+      "Multi-player"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/438100",
+    "officialUrl": "http://www.vrchat.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438100/header.jpg?t=1762366454",
+    "imageSource": "steam",
+    "description": "Join our growing community as you explore, play, and help craft the future of social VR. Create worlds and custom avatars. Welcome to VRChat.",
+    "micro": 59,
+    "meso": 72,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with reads, opponents, or uncertainty currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 33,
+      "steamAppId": 438100,
+      "currentPlayers": 44379,
+      "peakPlayers": 67859,
+      "playerHours": 33075647,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "dave-the-diver",
+    "title": "DAVE THE DIVER",
+    "type": "Adventure",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "tags": [
+      "Adventure",
+      "Casual",
+      "RPG",
+      "Simulation",
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1868140",
+    "officialUrl": "https://mintrock.et/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868140/661ab93fe661f8f96c6c3cb728719c15c2922eb6/header_alt_assets_2.jpg?t=1782191386",
+    "imageSource": "steam",
+    "description": "DAVE THE DIVER is a casual, singleplayer adventure RPG featuring deep-sea exploration and fishing during the day and sushi restaurant management at night. Join Dave and his quirky friends as they seek to uncover the secrets of the mysterious Blue Hole.",
+    "micro": 25,
+    "meso": 8,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 34,
+      "steamAppId": 1868140,
+      "currentPlayers": 44012,
+      "peakPlayers": 63489,
+      "playerHours": 9928124,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "dayz",
+    "title": "DayZ",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/221100",
+    "officialUrl": "https://www.dayz.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1769695513",
+    "imageSource": "steam",
+    "description": "How long can you survive a post-apocalyptic world? A land overrun with an infected \"zombie\" population, where you compete with other survivors for limited resources. Will you team up with strangers and stay strong together? Or play as a lone wolf to avoid betrayal? This is DayZ – this is your story.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 35,
+      "steamAppId": 221100,
+      "currentPlayers": 42271,
+      "peakPlayers": 64899,
+      "playerHours": 26793583,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "baldurs-gate-3",
+    "title": "Baldur's Gate 3",
+    "type": "Adventure",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "tags": [
+      "Adventure",
+      "RPG",
+      "Strategy",
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1086940",
+    "officialUrl": "https://baldursgate3.game",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+    "imageSource": "steam",
+    "description": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons & Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
+    "micro": 35,
+    "meso": 80,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 36,
+      "steamAppId": 1086940,
+      "currentPlayers": 41928,
+      "peakPlayers": 69033,
+      "playerHours": 28758194,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "sid-meiers-civilization-vi",
+    "title": "Sid Meier’s Civilization® VI",
+    "type": "Strategy",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Strategy",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/289070",
+    "officialUrl": "http://www.civilization.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg?t=1740607040",
+    "imageSource": "steam",
+    "description": "Expand your empire, advance your culture and go head-to-head against history’s greatest leaders. Will your civilization stand the test of time?",
+    "micro": 35,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 37,
+      "steamAppId": 289070,
+      "currentPlayers": 41608,
+      "peakPlayers": 48822,
+      "playerHours": 21428520,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "7-days-to-die",
+    "title": "7 Days to Die",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy",
+      "Single-player",
+      "Multi-player"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/251570",
+    "officialUrl": "http://www.7daystodie.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg?t=1776457619",
+    "imageSource": "steam",
+    "description": "7 Days to Die is an open-world game that is a unique combination of first-person shooter, survival horror, tower defense, and role-playing games. Play the definitive zombie survival sandbox RPG that came first. Navezgane awaits!",
+    "micro": 69,
+    "meso": 80,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 38,
+      "steamAppId": 251570,
+      "currentPlayers": 39599,
+      "peakPlayers": 51907,
+      "playerHours": 17327983,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "palworld",
+    "title": "Palworld",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Early Access",
+      "Single-player",
+      "Multi-player",
+      "Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1623730",
+    "officialUrl": "https://www.pocketpair.jp/palworld",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/058bd87dc17a7179e07c446aa64d0574ca43ab9d/header.jpg?t=1782406665",
+    "imageSource": "steam",
+    "description": "Fight, farm, build and work alongside mysterious creatures called \"Pals\" in this completely new multiplayer, open world survival and crafting game!",
+    "micro": 69,
+    "meso": 80,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 39,
+      "steamAppId": 1623730,
+      "currentPlayers": 38417,
+      "peakPlayers": 51116,
+      "playerHours": 18424751,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "elden-ring",
+    "title": "ELDEN RING",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "RPG",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1245620",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1767883716",
+    "imageSource": "steam",
+    "description": "THE CRITICALLY ACCLAIMED FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+    "micro": 87,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 40,
+      "steamAppId": 1245620,
+      "currentPlayers": 38136,
+      "peakPlayers": 49524,
+      "playerHours": 23011365,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "football-manager-26",
+    "title": "Football Manager 26",
+    "type": "Simulation",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "tags": [
+      "Simulation",
+      "Sports",
+      "Strategy",
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Workshop"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/3551340",
+    "officialUrl": "https://www.footballmanager.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3551340/0b251456ded934f0f78613dcc89bfaa6f06866f5/header_alt_assets_0.jpg?t=1781176251",
+    "imageSource": "steam",
+    "description": "Step into the dugout and experience the future of football management.",
+    "micro": 69,
+    "meso": 16,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 41,
+      "steamAppId": 3551340,
+      "currentPlayers": 37919,
+      "peakPlayers": 52865,
+      "playerHours": 22400684,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "terraria",
+    "title": "Terraria",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/105600",
+    "officialUrl": "http://www.terraria.org/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
+    "imageSource": "steam",
+    "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 42,
+      "steamAppId": 105600,
+      "currentPlayers": 37818,
+      "peakPlayers": 43334,
+      "playerHours": 19322924,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "euro-truck-simulator-2",
+    "title": "Euro Truck Simulator 2",
+    "type": "Indie",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Indie",
+      "Simulation",
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/227300",
+    "officialUrl": "https://eurotrucksimulator2.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1773641450",
+    "imageSource": "steam",
+    "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits.",
+    "micro": 35,
+    "meso": 50,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 43,
+      "steamAppId": 227300,
+      "currentPlayers": 36889,
+      "peakPlayers": 47920,
+      "playerHours": 17244536,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "team-fortress-2",
+    "title": "Team Fortress 2",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Linux"
+    ],
+    "tags": [
+      "Action",
+      "Free To Play",
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "Steam Workshop"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/440",
+    "officialUrl": "http://www.teamfortress.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg?t=1757348372",
+    "imageSource": "steam",
+    "description": "Nine distinct classes provide a broad range of tactical abilities and personalities. Constantly updated with new game modes, maps, equipment and, most importantly, hats!",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 44,
+      "steamAppId": 440,
+      "currentPlayers": 36467,
+      "peakPlayers": 60821,
+      "playerHours": 33905927,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "nba-2k26",
+    "title": "NBA 2K26",
+    "type": "Sports",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Sports",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/3472040",
+    "officialUrl": "https://www.nba2k.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472040/46650897e3b766a8b7f5e50313fcabba9afcf564/header_alt_assets_6.jpg?t=1782486648",
+    "imageSource": "steam",
+    "description": "Bragging rights are on the line in MyCAREER, MyTEAM, MyNBA, The W, and Play Now. Showcase your bag of moves with hyper realism, Powered by ProPLAY™, and challenge your friends, or rivals, in NBA 2K26’s competitive modes—and leave no doubt that you wear the crown.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 36,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 45,
+      "steamAppId": 3472040,
+      "currentPlayers": 36299,
+      "peakPlayers": 47042,
+      "playerHours": 19350636,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "call-of-duty-modern-warfare-ii",
+    "title": "Call of Duty®: Modern Warfare® II",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/3595230",
+    "officialUrl": "https://www.callofduty.com/modernwarfare2",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595230/ce4d5e53b36cb9d3c4309d1df72bf8663bbbc7ef/header.jpg?t=1778886532",
+    "imageSource": "steam",
+    "description": "Call of Duty®: Modern Warfare® II drops players into an unprecedented global conflict that features the iconic Operators of Task Force 141.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 36,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 46,
+      "steamAppId": 3595230,
+      "currentPlayers": 36264,
+      "peakPlayers": 39983,
+      "playerHours": 2235827,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "red-dead-redemption-2",
+    "title": "Red Dead Redemption 2",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1174180",
+    "officialUrl": "https://www.rockstargames.com/reddeadredemption2/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+    "imageSource": "steam",
+    "description": "Arthur Morgan and the Van der Linde Gang are outlaws on the run. With federal agents and bounty hunters massing on their heels, the gang must rob, steal, and fight their way across the rugged heartland in order to survive.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 36,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 47,
+      "steamAppId": 1174180,
+      "currentPlayers": 35896,
+      "peakPlayers": 44513,
+      "playerHours": 18100937,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "battlefield-6",
+    "title": "Battlefield™ 6",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/2807960",
+    "officialUrl": "https://www.ea.com/games/battlefield/battlefield-6",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1781611363",
+    "imageSource": "steam",
+    "description": "The ultimate all-out warfare experience. In a war of tanks, fighter jets, and massive combat arsenals, your squad is the deadliest weapon.",
+    "micro": 87,
+    "meso": 62,
+    "macro": 36,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 48,
+      "steamAppId": 2807960,
+      "currentPlayers": 35628,
+      "peakPlayers": 64869,
+      "playerHours": 24795954,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "crosshair-x",
+    "title": "Crosshair X",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Software Training",
+      "Utilities",
+      "Captions available",
+      "Steam Workshop",
+      "DualShock Controller Support"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1366800",
+    "officialUrl": "https://www.centerpointgaming.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1366800/fc58f34acc1637380f4b9d57119a98cba9cdcaee/header_alt_assets_3.jpg?t=1782494693",
+    "imageSource": "steam",
+    "description": "Improve your aim and accuracy in every shooter you play. Crosshair X overlays a custom crosshair on top of any game, even games that do not include one. Choose from thousands of community designs or build your own with the designer.",
+    "micro": 87,
+    "meso": 28,
+    "macro": 36,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 49,
+      "steamAppId": 1366800,
+      "currentPlayers": 35298,
+      "peakPlayers": 50132,
+      "playerHours": 26742661,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "the-scroll-of-taiwu-beyond-the-dome",
+    "title": "The Scroll of Taiwu : Beyond The Dome",
+    "type": "Adventure",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG",
+      "Strategy",
+      "Single-player",
+      "Steam Achievements",
+      "Steam Workshop"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/838350",
+    "officialUrl": "https://www.conchship.com.cn/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/e7486bbe31d0834404e53b0afa87639bf646ba71/header.jpg?t=1782294099",
+    "imageSource": "steam",
+    "description": "\"The Scroll of Taiwu\" is an indie game themed around Chinese mythology and wuxia. Players assume the role of the mysterious \"heir of the Taiwu clan\" in an alternate ancient China, working through generations of heirs to defeat a powerful hereditary enemy and shape the fate of the human world.",
+    "micro": 25,
+    "meso": 8,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 51,
+      "steamAppId": 838350,
+      "currentPlayers": 34288,
+      "peakPlayers": 50803,
+      "playerHours": 6472407,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "rimworld",
+    "title": "RimWorld",
+    "type": "Indie",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Single-player",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Custom Volume Controls"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/294100",
+    "officialUrl": "https://ludeon.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/76e0613b8197327299d5dbabb0a7fd7828a689a2/header.jpg?t=1780420333",
+    "imageSource": "steam",
+    "description": "A sci-fi colony sim driven by an intelligent AI storyteller. Generates stories by simulating psychology, ecology, gunplay, melee combat, climate, biomes, diplomacy, interpersonal relationships, art, medicine, trade, and more.",
+    "micro": 53,
+    "meso": 16,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 52,
+      "steamAppId": 294100,
+      "currentPlayers": 33973,
+      "peakPlayers": 40253,
+      "playerHours": 19865604,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "monster-hunter-world",
+    "title": "Monster Hunter: World",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Adjustable Text Size",
+      "Camera Comfort"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/582010",
+    "officialUrl": "http://www.monsterhunterworld.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg?t=1773328926",
+    "imageSource": "steam",
+    "description": "Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world teeming with surprises and excitement.",
+    "micro": 69,
+    "meso": 50,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 53,
+      "steamAppId": 582010,
+      "currentPlayers": 33847,
+      "peakPlayers": 51821,
+      "playerHours": 14648787,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "repo",
+    "title": "R.E.P.O.",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Early Access",
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Camera Comfort",
+      "Custom Volume Controls"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/3241660",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/a12c92856b71315da885924ea5e1d5290c8025b8/header_alt_assets_2.jpg?t=1778158882",
+    "imageSource": "steam",
+    "description": "An online co-op horror game with up to 6 players. Locate valuable, fully physics-based objects and handle them with care as you retrieve and extract to satisfy your creator's desires.",
+    "micro": 69,
+    "meso": 50,
+    "macro": 54,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 54,
+      "steamAppId": 3241660,
+      "currentPlayers": 32838,
+      "peakPlayers": 81915,
+      "playerHours": 29270728,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "mount-blade-ii-bannerlord",
+    "title": "Mount & Blade II: Bannerlord",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy",
+      "Single-player",
+      "Multi-player",
+      "PvP"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/261550",
+    "officialUrl": "https://www.taleworlds.com/en/Games/Bannerlord",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261550/header.jpg?t=1764252300",
+    "imageSource": "steam",
+    "description": "A strategy/action RPG. Create a character, engage in diplomacy, craft, trade and conquer new lands in a vast medieval sandbox. Raise armies to lead into battle and command and fight alongside your troops in massive real-time battles using a deep but intuitive skill-based combat system.",
+    "micro": 87,
+    "meso": 62,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 55,
+      "steamAppId": 261550,
+      "currentPlayers": 32492,
+      "peakPlayers": 35391,
+      "playerHours": 14617570,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "street-fighter-6",
+    "title": "Street Fighter™ 6",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1364780",
+    "officialUrl": "https://www.streetfighter.com/6/en-us/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1782095044",
+    "imageSource": "steam",
+    "description": "Here comes Capcom’s newest challenger! Street Fighter™ 6 launches worldwide on June 2nd, 2023 and represents the next evolution of the Street Fighter™ series! Street Fighter 6 spans three distinct game modes, including World Tour, Fighting Ground and Battle Hub.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 56,
+      "steamAppId": 1364780,
+      "currentPlayers": 31890,
+      "peakPlayers": 72217,
+      "playerHours": 16125304,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "farming-simulator-25",
+    "title": "Farming Simulator 25",
+    "type": "Simulation",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "tags": [
+      "Simulation",
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "DualShock Controller Support"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/2300320",
+    "officialUrl": "https://farming-simulator.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2300320/c2a205133d23cd24faf3c152d972a1d0177661b8/header.jpg?t=1782394057",
+    "imageSource": "steam",
+    "description": "Farming Simulator 25 invites you to join the rewarding farm life, single-handedly or cooperatively in multiplayer. This Farm is Your Farm!",
+    "micro": 35,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 57,
+      "steamAppId": 2300320,
+      "currentPlayers": 31646,
+      "peakPlayers": 47652,
+      "playerHours": 16196704,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "payday-2",
+    "title": "PAYDAY 2",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Linux"
+    ],
+    "tags": [
+      "Action",
+      "RPG",
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/218620",
+    "officialUrl": "https://www.paydaythegame.com/payday2/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/header.jpg?t=1779319712",
+    "imageSource": "steam",
+    "description": "PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree.",
+    "micro": 69,
+    "meso": 50,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 58,
+      "steamAppId": 218620,
+      "currentPlayers": 31566,
+      "peakPlayers": 35076,
+      "playerHours": 21249657,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "deltarune",
+    "title": "DELTARUNE",
+    "type": "Indie",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "tags": [
+      "Indie",
+      "RPG",
+      "Single-player",
+      "Full controller support",
+      "DualShock Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1671210",
+    "officialUrl": "http://deltarune.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
+    "imageSource": "steam",
+    "description": "Dive into the parallel story to UNDERTALE! Fight or spare your way through action-packed battles as you explore a mysterious world alongside an endearing cast of new and familiar characters. Chapters 1-5 are available now, with more planned as free updates!",
+    "micro": 69,
+    "meso": 16,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 59,
+      "steamAppId": 1671210,
+      "currentPlayers": 31431,
+      "peakPlayers": 290973,
+      "playerHours": 9784683,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "monster-hunter-wilds",
+    "title": "Monster Hunter Wilds",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/2246340",
+    "officialUrl": "https://www.monsterhunter.com/wilds/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1781071959",
+    "imageSource": "steam",
+    "description": "The unbridled force of nature runs wild and relentless, with environments transforming drastically from one moment to the next. This is a story of monsters and humans and their struggles to live in harmony in a world of duality.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 60,
+      "steamAppId": 2246340,
+      "currentPlayers": 30069,
+      "peakPlayers": 47144,
+      "playerHours": 13312493,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "left-4-dead-2",
+    "title": "Left 4 Dead 2",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Linux"
+    ],
+    "tags": [
+      "Action",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/550",
+    "officialUrl": "http://www.l4d.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg?t=1772742214",
+    "imageSource": "steam",
+    "description": "Set in the zombie apocalypse, Left 4 Dead 2 is a co-operative action horror FPS takes you and your friends through the cities, swamps and cemeteries of the Deep South, from Savannah to New Orleans across five expansive campaigns.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 61,
+      "steamAppId": 550,
+      "currentPlayers": 29783,
+      "peakPlayers": 41328,
+      "playerHours": 17224598,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "total-war-warhammer-iii",
+    "title": "Total War: WARHAMMER III",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Action",
+      "Strategy",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1142710",
+    "officialUrl": "https://warhammer3.totalwar.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg?t=1779441058",
+    "imageSource": "steam",
+    "description": "The cataclysmic conclusion to the Total War: WARHAMMER trilogy is here. Rally your forces and step into the Realm of Chaos, a dimension of mind-bending horror where the very fate of the world will be decided. Will you conquer your Daemons… or command them?",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 62,
+      "steamAppId": 1142710,
+      "currentPlayers": 28769,
+      "peakPlayers": 43219,
+      "playerHours": 17411419,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "elden-ring-nightreign",
+    "title": "ELDEN RING NIGHTREIGN",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "RPG",
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/2622380",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1773099036",
+    "imageSource": "steam",
+    "description": "ELDEN RING NIGHTREIGN is a standalone adventure within the ELDEN RING universe, crafted to offer players a new gaming experience by reimagining the game’s core design.",
+    "micro": 69,
+    "meso": 50,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 63,
+      "steamAppId": 2622380,
+      "currentPlayers": 28588,
+      "peakPlayers": 43207,
+      "playerHours": 13635635,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "ark-survival-ascended",
+    "title": "ARK: Survival Ascended",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Early Access",
+      "Single-player",
+      "Multi-player"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/2399830",
+    "officialUrl": "http://www.playark.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/d934813ca531af0fce69fe36bc972f1c90d1aa19/header.jpg?t=1779293241",
+    "imageSource": "steam",
+    "description": "ARK is reimagined from the ground-up into the next-generation of video game technology with Unreal Engine 5! Form a tribe, tame & breed hundreds of unique dinosaurs and primeval creatures, explore, craft, build, and fight your way to the top of the food-chain. Your new world awaits!",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 64,
+      "steamAppId": 2399830,
+      "currentPlayers": 28422,
+      "peakPlayers": 41220,
+      "playerHours": 17730770,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "call-of-duty",
+    "title": "Call of Duty®",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1938090",
+    "officialUrl": "https://www.callofduty.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/23af6cf41e2d09620caa07700a4cb3288dbcbaa8/header.jpg?t=1781628050",
+    "imageSource": "steam",
+    "description": "The Call of Duty® experience supports Modern Warfare® 4, Black Ops 7, Black Ops 6 and Call of Duty®: Warzone™.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 36,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 65,
+      "steamAppId": 1938090,
+      "currentPlayers": 28309,
+      "peakPlayers": 50405,
+      "playerHours": 21986646,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "helldivers-2",
+    "title": "HELLDIVERS™ 2",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Adjustable Text Size",
+      "Camera Comfort"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/553850",
+    "officialUrl": "https://www.playstation.com/games/helldivers-2/pc/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/f11c258b04a5e3e7771c1bab60f324ebf6c6c6fb/header.jpg?t=1779899567",
+    "imageSource": "steam",
+    "description": "The Galaxy’s Last Line of Offence. Enlist in the Helldivers and join the fight for freedom across a hostile galaxy in a fast, frantic, and ferocious third-person shooter.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 36,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 66,
+      "steamAppId": 553850,
+      "currentPlayers": 28112,
+      "peakPlayers": 45817,
+      "playerHours": 18761776,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "escape-from-tarkov",
+    "title": "Escape from Tarkov",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/3932890",
+    "officialUrl": "https://www.escapefromtarkov.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/e1367f10d469137a2ced522b642a9b1ee10450da/header.jpg?t=1779703783",
+    "imageSource": "steam",
+    "description": "Escape from Tarkov is the original extraction FPS where every raid is a gamble with death. Prep your raid, bleed, endure and fight through ruthless PMC players and Scavs, gain tactical advantage and cling to your loot — only extraction decides if you live or lose it all.",
+    "micro": 69,
+    "meso": 80,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with reads, opponents, or uncertainty currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 67,
+      "steamAppId": 3932890,
+      "currentPlayers": 28085,
+      "peakPlayers": 30503,
+      "playerHours": 12295043,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "the-witcher-3-wild-hunt",
+    "title": "The Witcher 3: Wild Hunt",
+    "type": "RPG",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "RPG",
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Adjustable Text Size",
+      "Camera Comfort",
+      "Color Alternatives"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/292030",
+    "officialUrl": "https://www.thewitcher.com/witcher3",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ad9240e088f953a84aee814034c50a6a92bf4516/header.jpg?t=1768303991",
+    "imageSource": "steam",
+    "description": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world.",
+    "micro": 35,
+    "meso": 16,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 68,
+      "steamAppId": 292030,
+      "currentPlayers": 27608,
+      "peakPlayers": 33384,
+      "playerHours": 11416473,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "arc-raiders",
+    "title": "ARC Raiders",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1808500",
+    "officialUrl": "https://arcraiders.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/982cca1f1f19a646301b6051e82562d29092d63e/header_alt_assets_5.jpg?t=1781265791",
+    "imageSource": "steam",
+    "description": "ARC Raiders is a multiplayer extraction adventure, set in a lethal future earth, ravaged by a mysterious mechanized threat known as ARC.",
+    "micro": 69,
+    "meso": 80,
+    "macro": 36,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with reads, opponents, or uncertainty currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 69,
+      "steamAppId": 1808500,
+      "currentPlayers": 27552,
+      "peakPlayers": 76709,
+      "playerHours": 27875817,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "obs-studio",
+    "title": "OBS Studio",
+    "type": "Utilities",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "tags": [
+      "Utilities",
+      "Video Production"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1905180",
+    "officialUrl": "https://obsproject.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1905180/header.jpg?t=1768433435",
+    "imageSource": "steam",
+    "description": "Free and open-source software for video recording and live streaming",
+    "micro": 35,
+    "meso": 28,
+    "macro": 36,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 70,
+      "steamAppId": 1905180,
+      "currentPlayers": 27223,
+      "peakPlayers": 31307,
+      "playerHours": 14132451,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "project-zomboid",
+    "title": "Project Zomboid",
+    "type": "Indie",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Early Access",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/108600",
+    "officialUrl": "http://www.projectzomboid.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1777298596",
+    "imageSource": "steam",
+    "description": "Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die? All it takes is a bite..",
+    "micro": 35,
+    "meso": 80,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 71,
+      "steamAppId": 108600,
+      "currentPlayers": 26888,
+      "peakPlayers": 38576,
+      "playerHours": 18111816,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "warhammer-40000-darktide",
+    "title": "Warhammer 40,000: Darktide",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1361210",
+    "officialUrl": "http://www.playdarktide.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/c9110a232b6ba7ef21039fc00e4582b2acfec810/header_alt_assets_19.jpg?t=1782226781",
+    "imageSource": "steam",
+    "description": "Take back the city of Tertium from hordes of bloodthirsty foes in this intense and brutal action shooter. Warhammer 40,000: Darktide is the new co-op focused experience from the award-winning team behind the Vermintide series. As Tertium falls, Rejects Will Rise.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 72,
+      "steamAppId": 1361210,
+      "currentPlayers": 25801,
+      "peakPlayers": 56866,
+      "playerHours": 8039713,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "gothic-1-remake",
+    "title": "Gothic 1 Remake",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "RPG",
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Custom Volume Controls"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1297900",
+    "officialUrl": "http://www.gothic-game.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1782140243",
+    "imageSource": "steam",
+    "description": "The Legend is Back - Return to the Valley of the Mines in this faithful remake of the genre-defining classic RPG. Explore a hand-crafted, organic open world that reacts dynamically to your actions in a gritty, unrestricted experience like no other.",
+    "micro": 69,
+    "meso": 16,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 73,
+      "steamAppId": 1297900,
+      "currentPlayers": 25246,
+      "peakPlayers": 70211,
+      "playerHours": 11588464,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "the-sims-4",
+    "title": "The Sims™ 4",
+    "type": "Adventure",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Adventure",
+      "Casual",
+      "Simulation",
+      "Free To Play",
+      "Single-player",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Mouse Only Option"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1222670",
+    "officialUrl": "https://www.ea.com/games/the-sims/the-sims-4",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/header.jpg?t=1778778231",
+    "imageSource": "steam",
+    "description": "Play with life and discover the possibilities. Unleash your imagination and create a world of Sims that’s wholly unique. Explore and customize every detail from Sims to homes–and much more.",
+    "micro": 25,
+    "meso": 8,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 74,
+      "steamAppId": 1222670,
+      "currentPlayers": 25036,
+      "peakPlayers": 37962,
+      "playerHours": 17511950,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "the-elder-scrolls-v-skyrim-special-edition",
+    "title": "The Elder Scrolls V: Skyrim Special Edition",
+    "type": "RPG",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "RPG",
+      "Single-player",
+      "Steam Achievements",
+      "Playable without Timed Input",
+      "Save Anytime",
+      "Stereo Sound",
+      "Surround Sound",
+      "Partial Controller Support"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/489830",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1753715778",
+    "imageSource": "steam",
+    "description": "Winner of more than 200 Game of the Year Awards, The Elder Scrolls V: Skyrim Special Edition brings the epic fantasy to life in stunning detail. The Special Edition includes the critically acclaimed game and add-ons with all-new features.",
+    "micro": 53,
+    "meso": 16,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 75,
+      "steamAppId": 489830,
+      "currentPlayers": 24521,
+      "peakPlayers": 40909,
+      "playerHours": 18135095,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "garrys-mod",
+    "title": "Garry's Mod",
+    "type": "Casual",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/4000",
+    "officialUrl": "https://gmod.facepunch.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg?t=1776868682",
+    "imageSource": "steam",
+    "description": "Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play.",
+    "micro": 43,
+    "meso": 54,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 76,
+      "steamAppId": 4000,
+      "currentPlayers": 24261,
+      "peakPlayers": 37806,
+      "playerHours": 16949305,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "hunt-showdown-1896",
+    "title": "Hunt: Showdown 1896",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/594650",
+    "officialUrl": "https://www.huntshowdown.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/a99c5b7bf79b09a031e835692d32dc264437ef21/header_alt_assets_25.jpg?t=1782424244",
+    "imageSource": "steam",
+    "description": "Hunt: Showdown 1896 is the brutally rewarding extraction shooter. Track twisted monsters and overcome ruthless PvP. Take bounties in corrupted backwaters lost to history. With a team, you might survive. Die with nothing or get out with everything.",
+    "micro": 69,
+    "meso": 80,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with reads, opponents, or uncertainty currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 77,
+      "steamAppId": 594650,
+      "currentPlayers": 23481,
+      "peakPlayers": 43371,
+      "playerHours": 12925680,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "where-winds-meet",
+    "title": "Where Winds Meet",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Free To Play",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/3564740",
+    "officialUrl": "https://www.wherewindsmeetgame.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564740/6d94b048393d5358690a04a7db99f2c9739c703c/header.jpg?t=1782384158",
+    "imageSource": "steam",
+    "description": "Step into an open-world action-adventure RPG set in ancient China. Uncover the secrets of your own identity as you rise from a humble village wanderer to the sword master of the imperial capital. Learn martial arts and build your reputation as a hero or a bringer of chaos in this free wuxia world.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 78,
+      "steamAppId": 3564740,
+      "currentPlayers": 23344,
+      "peakPlayers": 33572,
+      "playerHours": 11597110,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "ark-survival-evolved",
+    "title": "ARK: Survival Evolved",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Single-player",
+      "Multi-player",
+      "MMO"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/346110",
+    "officialUrl": "http://www.playark.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346110/header.jpg?t=1765677889",
+    "imageSource": "steam",
+    "description": "Stranded on the shores of a mysterious island, you must learn to survive. Use your cunning to kill or tame the primeval creatures roaming the land, and encounter other players to survive, dominate... and escape!",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 79,
+      "steamAppId": 346110,
+      "currentPlayers": 23117,
+      "peakPlayers": 32459,
+      "playerHours": 13734787,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "satisfactory",
+    "title": "Satisfactory",
+    "type": "Adventure",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/526870",
+    "officialUrl": "https://www.satisfactorygame.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1780413533",
+    "imageSource": "steam",
+    "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
+    "micro": 53,
+    "meso": 62,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 80,
+      "steamAppId": 526870,
+      "currentPlayers": 22926,
+      "peakPlayers": 42984,
+      "playerHours": 15075112,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "crusader-kings-iii",
+    "title": "Crusader Kings III",
+    "type": "RPG",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "RPG",
+      "Simulation",
+      "Strategy",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1158310",
+    "officialUrl": "https://www.paradoxinteractive.com/games/crusader-kings-iii/about",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158310/8a7e814d13f8e73c0d40471f585ece908f9be282/header.jpg?t=1782466478",
+    "imageSource": "steam",
+    "description": "Love, fight, scheme, and claim greatness. Determine your noble house’s legacy in the sprawling grand strategy of Crusader Kings III. Death is only the beginning as you guide your dynasty’s bloodline in the rich and larger-than-life simulation of the Middle Ages.",
+    "micro": 53,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 81,
+      "steamAppId": 1158310,
+      "currentPlayers": 22259,
+      "peakPlayers": 26178,
+      "playerHours": 12096510,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "beamngdrive",
+    "title": "BeamNG.drive",
+    "type": "Racing",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Racing",
+      "Simulation",
+      "Early Access",
+      "Single-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Camera Comfort",
+      "Custom Volume Controls"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/284160",
+    "officialUrl": "https://www.beamng.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/284160/17f8af1312bc48e6cd90e5fb639d4981682af260/header.jpg?t=1772048121",
+    "imageSource": "steam",
+    "description": "A dynamic soft-body physics vehicle simulator capable of doing just about anything.",
+    "micro": 69,
+    "meso": 16,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 82,
+      "steamAppId": 284160,
+      "currentPlayers": 22103,
+      "peakPlayers": 31348,
+      "playerHours": 13927959,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "factorio",
+    "title": "Factorio",
+    "type": "Casual",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy",
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/427520",
+    "officialUrl": "https://www.factorio.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg?t=1763986204",
+    "imageSource": "steam",
+    "description": "Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you.",
+    "micro": 25,
+    "meso": 54,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 83,
+      "steamAppId": 427520,
+      "currentPlayers": 21717,
+      "peakPlayers": 27322,
+      "playerHours": 12081517,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "crimson-desert",
+    "title": "Crimson Desert",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Custom Volume Controls",
+      "Gamepad Recommended",
+      "DualShock Controller Support"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/3321460",
+    "officialUrl": "https://crimsondesert.pearlabyss.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/abd7dbdeaede8b6c9a6d40bf116ff2b883f2dd45/header.jpg?t=1781661893",
+    "imageSource": "steam",
+    "description": "Crimson Desert is an open-world action-adventure set on the continent of Pywel. Join Kliff on his journey to rebuild the Greymane faction and to save the land from a looming threat. From vast wilderness and cities to ruins and the mysterious Abyss, forge your path through battles and discovery.",
+    "micro": 69,
+    "meso": 16,
+    "macro": 36,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 84,
+      "steamAppId": 3321460,
+      "currentPlayers": 21657,
+      "peakPlayers": 50391,
+      "playerHours": 17203282,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "stellaris",
+    "title": "Stellaris",
+    "type": "Simulation",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Simulation",
+      "Strategy",
+      "Single-player",
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/281990",
+    "officialUrl": "https://www.stellaris.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/521716e888b3d7815dd340e00856f0b549b6a9c7/header_alt_assets_12.jpg?t=1782139685",
+    "imageSource": "steam",
+    "description": "Explore a galaxy full of wonders in this sci-fi grand strategy game from Paradox Development Studios. Interact with diverse alien races, discover strange new worlds with unexpected events and expand the reach of your empire. Each new adventure holds almost limitless possibilities.",
+    "micro": 35,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 85,
+      "steamAppId": 281990,
+      "currentPlayers": 21394,
+      "peakPlayers": 29566,
+      "playerHours": 10977536,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "age-of-empires-ii-definitive-edition",
+    "title": "Age of Empires II: Definitive Edition",
+    "type": "Strategy",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "tags": [
+      "Strategy",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/813780",
+    "officialUrl": "https://www.ageofempires.com/games/aoeiide/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/header.jpg?t=1780505425",
+    "imageSource": "steam",
+    "description": "42 Civilizations, 229 Campaign Missions, Singleplayer, Co-Op, Multiplayer, In-Game Editor, Mods, Cross-play...It is good to be the king.",
+    "micro": 35,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 86,
+      "steamAppId": 813780,
+      "currentPlayers": 21327,
+      "peakPlayers": 28418,
+      "playerHours": 12863109,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "oxygen-not-included",
+    "title": "Oxygen Not Included",
+    "type": "Indie",
+    "platforms": [
+      "PC",
+      "Mac",
+      "Linux"
+    ],
+    "tags": [
+      "Indie",
+      "Simulation",
+      "Single-player",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/457140",
+    "officialUrl": "https://www.kleientertainment.com/games/oxygen-not-included",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/457140/header.jpg?t=1781198471",
+    "imageSource": "steam",
+    "description": "Oxygen Not Included is a space-colony simulation game. Deep inside an alien space rock your industrious crew will need to master science, overcome strange new lifeforms, and harness incredible space tech to survive, and possibly, thrive.",
+    "micro": 35,
+    "meso": 16,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 87,
+      "steamAppId": 457140,
+      "currentPlayers": 21263,
+      "peakPlayers": 27310,
+      "playerHours": 8962897,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "efootball",
+    "title": "eFootball™",
+    "type": "Simulation",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Simulation",
+      "Sports",
+      "Free To Play",
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1665460",
+    "officialUrl": "https://www.konami.com/efootball/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1665460/9182eac331f562e4a3aab2384b6759c3e1a95797/header.jpg?t=1782314037",
+    "imageSource": "steam",
+    "description": "Step up and experience the exhilarating soccer game that has now surpassed 1 billion downloads! Play eFootball™ with users around the world!",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 88,
+      "steamAppId": 1665460,
+      "currentPlayers": 20572,
+      "peakPlayers": 32892,
+      "playerHours": 12244851,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "sons-of-the-forest",
+    "title": "Sons Of The Forest",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation",
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1326470",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+    "imageSource": "steam",
+    "description": "Sent to find a missing billionaire on a remote island, you find yourself in a cannibal-infested hellscape. Craft, build, and struggle to survive, alone or with friends, in this terrifying new open-world survival horror simulator.",
+    "micro": 69,
+    "meso": 68,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 89,
+      "steamAppId": 1326470,
+      "currentPlayers": 19747,
+      "peakPlayers": 39638,
+      "playerHours": 9663899,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "football-manager-2024",
+    "title": "Football Manager 2024",
+    "type": "Simulation",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "tags": [
+      "Simulation",
+      "Sports",
+      "Strategy",
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/2252570",
+    "officialUrl": "https://www.footballmanager.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252570/header.jpg?t=1763646323",
+    "imageSource": "steam",
+    "description": "Build a world-class team ready to dominate your rivals in football’s most prestigious competitions. Progress never stops when you’re pursuing footballing greatness.",
+    "micro": 69,
+    "meso": 16,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 90,
+      "steamAppId": 2252570,
+      "currentPlayers": 19118,
+      "peakPlayers": 25045,
+      "playerHours": 11248051,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "bidking",
+    "title": "BidKing",
+    "type": "Casual",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Casual",
+      "Indie",
+      "Massively Multiplayer",
+      "Simulation",
+      "Sports",
+      "Strategy",
+      "Multi-player",
+      "MMO"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/4128580",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4128580/b7e0ff7f05df2c97692bc61c5d3ddf751acb3477/header.jpg?t=1776746728",
+    "imageSource": "steam",
+    "description": "Bid King is a multiplayer tactical strategy game of bid auctions and collectible appraisal. Read your rivals, judge through uncertainty, score valuable items at low prices, and bluff others into overpaying for junk. In this auction house of deception, only one thing matters: your wits.",
+    "micro": 59,
+    "meso": 72,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with reads, opponents, or uncertainty currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 91,
+      "steamAppId": 4128580,
+      "currentPlayers": 18850,
+      "peakPlayers": 28912,
+      "playerHours": 10506424,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "wuthering-waves",
+    "title": "Wuthering Waves",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Free To Play",
+      "Single-player",
+      "In-App Purchases",
+      "DualShock Controller Support",
+      "Partial Controller Support"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/3513350",
+    "officialUrl": "https://wutheringwaves.kurogames.com/main/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3513350/42c99bcfe9e12f07fc5e0cba02f2b2cb25aea3e4/header.jpg?t=1780863406",
+    "imageSource": "steam",
+    "description": "Wuthering Waves is a story-rich open-world action RPG with a high degree of freedom. You wake from your slumber as Rover, joined by a vibrant cast of Resonators on a journey to reclaim your lost memories and change the world.",
+    "micro": 87,
+    "meso": 16,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 92,
+      "steamAppId": 3513350,
+      "currentPlayers": 18463,
+      "peakPlayers": 49485,
+      "playerHours": 13463159,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "russian-fishing-4",
+    "title": "Russian Fishing 4",
+    "type": "Adventure",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Adventure",
+      "Casual",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Sports",
+      "Free To Play",
+      "Single-player"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/766570",
+    "officialUrl": "https://rf4game.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766570/header.jpg?t=1752656375",
+    "imageSource": "steam",
+    "description": "Russian Fishing 4 is a fishing simulator with RPG elements. There is no story line and the whole process is based on the concept of an open, free to roam and free to play game.",
+    "micro": 59,
+    "meso": 54,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 93,
+      "steamAppId": 766570,
+      "currentPlayers": 18167,
+      "peakPlayers": 25894,
+      "playerHours": 10079463,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "arena-breakout-infinite",
+    "title": "Arena Breakout: Infinite",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Strategy",
+      "Free To Play",
+      "Multi-player",
+      "MMO"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/2073620",
+    "officialUrl": "https://www.arenabreakoutinfinite.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073620/cc64409cb13cecf437453e8e5d7a68615d9d97ea/header.jpg?t=1782271362",
+    "imageSource": "steam",
+    "description": "Arena Breakout: Infinite is a high-stakes tactical extraction shooter where every decision matters. Fight, loot, and extract—or lose it all. With stunningly realistic visuals, lifelike sound, and unforgiving PvPvE combat, every raid is a gamble between glory and ruin.",
+    "micro": 87,
+    "meso": 80,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 94,
+      "steamAppId": 2073620,
+      "currentPlayers": 18101,
+      "peakPlayers": 30337,
+      "playerHours": 12546266,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "squad",
+    "title": "Squad",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Indie",
+      "Massively Multiplayer",
+      "Strategy",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/393380",
+    "officialUrl": "http://joinsquad.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/393380/55a550dd5edfbab9cbd83a07a434f403f3d8eae2/header_alt_assets_9.jpg?t=1781548039",
+    "imageSource": "steam",
+    "description": "Squad is a tactical FPS that provides authentic combat experiences through teamwork, communication, and realistic combat. It bridges the gap between arcade shooter and military realism with 100-player battles, combined-arms warfare, and base building.",
+    "micro": 87,
+    "meso": 62,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 95,
+      "steamAppId": 393380,
+      "currentPlayers": 17959,
+      "peakPlayers": 23804,
+      "playerHours": 8935776,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "resident-evil-4",
+    "title": "Resident Evil 4",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "HDR available"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/2050650",
+    "officialUrl": "https://www.residentevil.com/re4/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+    "imageSource": "steam",
+    "description": "Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals.",
+    "micro": 69,
+    "meso": 34,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 96,
+      "steamAppId": 2050650,
+      "currentPlayers": 17927,
+      "peakPlayers": 30581,
+      "playerHours": 9835905,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "path-of-exile",
+    "title": "Path of Exile",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Mac"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play",
+      "Single-player",
+      "Multi-player"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/238960",
+    "officialUrl": "http://www.pathofexile.com",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/558fd9078de800b7528a8e96bee0108a8fac17aa/header.jpg?t=1773177577",
+    "imageSource": "steam",
+    "description": "You are an Exile, struggling to survive on the dark continent of Wraeclast, as you fight to earn power that will allow you to exact your revenge against those who wronged you. Path of Exile is an online Action RPG set in a dark fantasy world. The game is completely free and will never be pay-to-win.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 97,
+      "steamAppId": 238960,
+      "currentPlayers": 17722,
+      "peakPlayers": 21689,
+      "playerHours": 3441698,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "kingdom-come-deliverance-ii",
+    "title": "Kingdom Come: Deliverance II",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Single-player",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Custom Volume Controls"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/1771300",
+    "officialUrl": "https://www.kingdomcomerpg.com/",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
+    "imageSource": "steam",
+    "description": "A thrilling story-driven action RPG, with a rich open world, set in 15th century Medieval Europe. Experience the ultimate medieval adventure - through the eyes of young Henry - as you embark on a journey of epic proportions.",
+    "micro": 69,
+    "meso": 16,
+    "macro": 70,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 98,
+      "steamAppId": 1771300,
+      "currentPlayers": 17419,
+      "peakPlayers": 23912,
+      "playerHours": 8670383,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "black-desert",
+    "title": "Black Desert",
+    "type": "Action",
+    "platforms": [
+      "PC"
+    ],
+    "tags": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Strategy",
+      "Multi-player",
+      "MMO",
+      "PvP"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/582660",
+    "officialUrl": "https://blackdesert.pearlabyss.com/Steam",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/4f0ea9284b5fae9464dadc528bb572c629666313/header_alt_assets_27.jpg?t=1773974827",
+    "imageSource": "steam",
+    "description": "Played by over 20 million Adventurers - Black Desert Online is an open-world, action MMORPG. Experience intense, action-packed combat, battle massive world bosses, fight alongside friends to siege and conquer castles, and train in professions such as fishing, trading, crafting, cooking, and more!",
+    "micro": 87,
+    "meso": 62,
+    "macro": 88,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with systems, builds, or long-form planning currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 99,
+      "steamAppId": 582660,
+      "currentPlayers": 17270,
+      "peakPlayers": 21456,
+      "playerHours": 12240303,
+      "reviewStatus": "needs-score-review"
+    }
+  },
+  {
+    "id": "counter-strike-source",
+    "title": "Counter-Strike: Source",
+    "type": "Action",
+    "platforms": [
+      "PC",
+      "Linux"
+    ],
+    "tags": [
+      "Action",
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Camera Comfort",
+      "Color Alternatives",
+      "Custom Volume Controls",
+      "Stereo Sound"
+    ],
+    "storeUrl": "https://store.steampowered.com/app/240",
+    "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/header.jpg?t=1745368575",
+    "imageSource": "steam",
+    "description": "Counter-Strike: Source blends Counter-Strike's award-winning teamplay action with the advanced technology of Source™ technology.",
+    "micro": 69,
+    "meso": 62,
+    "macro": 36,
+    "why": "Imported from SteamCharts Top Games; first-pass scoring leans on Steam genres/categories, with execution pressure currently weighted highest. Needs human MMM review.",
+    "source": {
+      "name": "SteamCharts Top Games",
+      "url": "https://steamcharts.com/top",
+      "importedAt": "2026-06-27T13:52:36.759Z",
+      "rank": 100,
+      "steamAppId": 240,
+      "currentPlayers": 17267,
+      "peakPlayers": 37868,
+      "playerHours": 14513708,
+      "reviewStatus": "needs-score-review"
+    }
+  }
+]
