@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 616 353" role="img" aria-label="Micro fallback game art">
+  <rect width="616" height="353" fill="#ff3b30"/>
+  <rect x="24" y="24" width="568" height="305" fill="#0b0d14"/>
+  <path d="M70 176h476M308 56v240" stroke="#f8f2e8" stroke-width="16"/>
+  <circle cx="308" cy="176" r="76" fill="none" stroke="#ffd400" stroke-width="18"/>
+  <text x="42" y="314" fill="#ff3b30" font-family="Arial Black, Impact, sans-serif" font-size="70">MICRO</text>
+</svg>

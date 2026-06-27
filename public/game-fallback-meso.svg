@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 616 353" role="img" aria-label="Meso fallback game art">
+  <rect width="616" height="353" fill="#7a5cff"/>
+  <rect x="24" y="24" width="568" height="305" fill="#f8f2e8"/>
+  <path d="M104 176c58-88 126-88 204 0s146 88 204 0" fill="none" stroke="#0b0d14" stroke-width="22"/>
+  <circle cx="202" cy="176" r="42" fill="#ff3b30"/>
+  <circle cx="414" cy="176" r="42" fill="#00d084"/>
+  <text x="42" y="314" fill="#0b0d14" font-family="Arial Black, Impact, sans-serif" font-size="70">MESO</text>
+</svg>
